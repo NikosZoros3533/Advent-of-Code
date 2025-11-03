@@ -1,4 +1,5 @@
 //Advent of Code 2015 Solution
+//Solution = 138
 const fs = require("fs");
 let inputData;
 try {
